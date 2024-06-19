@@ -42,7 +42,7 @@ HOW TO SET UP
     1) Download the repository as a zip file and extract it to your project folder (e.g. into d:/projects/beeb-emulator). This will create several subfolders, the most important of which will be ./bin because that will contain commit.bat
     2) Ensure your system is set up with "what it needs". If you're using a different platform or different tools then the batch file will need modification to match.
     3) Edit the commit.bat file for the project you're working on -
-        i) Set PROJECT to the project id of your Scratch project - set to RokCoder's Beeb Emulator by default (531881458)
+        i) Set PROJECT to the sb3 of your Scratch project - set to nothing by default.
         ii) Set UNZIP to point to your 7z.exe file - assuming you have installed 7z then this is probably already pointing to it
     4) Create a GitHub repository for your project folder
     
